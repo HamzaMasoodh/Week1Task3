@@ -1,0 +1,53 @@
+.top {
+  background-color: #a51c30;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+span {
+  font-family: "Roboto", sans-serif;
+  color: #202428;
+}
+li {
+  list-style: none;
+}
+footer {
+  text-align: center;
+  background-color: #202428;
+}
+.footer {
+  color: aliceblue;
+  margin-top: 10px;
+}
+span {
+  color: white;
+}
+
+a:link {
+  color: white;
+
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
